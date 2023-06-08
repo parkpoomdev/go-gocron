@@ -53,10 +53,10 @@ Additional Features
 
 gocron provides several additional features to enhance your task scheduling experience. Some of these features include:
 
-    Task modification: You can modify the schedule or actions of a scheduled task.
-    Task removal: You can remove a scheduled task from the scheduler.
-    Error handling: You can handle errors that occur during task execution.
-    Timezone support: gocron supports scheduling tasks in different timezones.
+Task modification: You can modify the schedule or actions of a scheduled task.
+Task removal: You can remove a scheduled task from the scheduler.
+Error handling: You can handle errors that occur during task execution.
+Timezone support: gocron supports scheduling tasks in different timezones.
 
 For more information on these features and other advanced usage of gocron, refer to the gocron documentation: https://github.com/go-co-op/gocron
 Conclusion
